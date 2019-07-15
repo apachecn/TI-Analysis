@@ -1,4 +1,4 @@
-# [培训机构分析报告（TI Analysis）](https://gist.github.com/hoodiearon/f33ecd85a3c42af86c01eff9dcfb4a7b)
+# [培训机构分析报告（TI Analysis）](https://apachecn.github.io/TI-Analysis/)
 
 **<details><summary>关于培训机构诈骗内容</summary>**
 
