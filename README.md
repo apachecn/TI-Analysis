@@ -470,6 +470,7 @@ end note
 
 ![](https://i.postimg.cc/vHVmZnqw/s30.png)
 
+<!--
 ## 题外
 
 任职富士康集团驻事业群工程师时，我曾对字节跳动内推邮件无动于衷，也曾错过微星面试入职，当然也受过很多去面试小公司的HR及部门主管所鄙夷；以一个日常碰壁者的视角谈找工作的经验，找工作其实很像田忌赛马（本科投大专，大专投中专入职，相关专业要求较高转向为与前专业带有关联性而又入手难度较低的岗位），有时真得自己放下学历以及技能门槛投职。
@@ -489,6 +490,7 @@ end note
 ![](https://i.postimg.cc/NfbgC6bD/new39.png)
 
 </details>
+-->
 
 © 2019 [hoodiearon](https://github.com/hoodiearon)
 
