@@ -97,7 +97,7 @@
 
 ### 培训机构对PUA应用调查
 
-特别感谢 [知更鸟网提供 《PUA揭露 | 杀人不见血》的文章](https://zhuanlan.zhihu.com/p/47338944?utm_source=qq&utm_medium=social&utm_oi=57875284099072)，以及结合网上的老哥提供的实例，让我有清晰的类推思路写下去
+特别感谢 [知更鸟网提供 《PUA揭露 杀人不见血》的文章](https://zhuanlan.zhihu.com/p/47338944?utm_source=qq&utm_medium=social&utm_oi=57875284099072)，以及结合网上的老哥提供的实例，让我有清晰的类推思路写下去
 
 **怎样拉人进入培训？**
 
