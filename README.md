@@ -78,7 +78,7 @@
 
 比如这个招聘简示的招转培目的，相对来说隐藏较深
 
-![](https://i.postimg.cc/LsZKw02N/1s3.png)
+![](https://i.postimg.cc/5yTxcynT/1s3.png)
 
 
 ### 培训机构对PUA应用调查
