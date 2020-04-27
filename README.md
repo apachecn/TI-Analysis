@@ -1,5 +1,8 @@
 # [培训机构分析报告（TI Analysis）](https://apachecn.github.io/TI-Analysis/)
 
+> 本文选自 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html) 特别篇-社会工程 培训机构分析报告 章节
+> 项目地址： https://github.com/hoochanlon/helpdesk-manual
+
 ## 前言
 
 以下真实故事及相关新闻，相信大家也是深有体会和认知；我觉得与其只从问答及贴吧等评论区去了解xx公司是不是培训公司，不如深入理解它的设计模式以及核心运作流程，不然此类公司一旦换个了名字，结果又是不知道了，这就是我写这报告的原因。此外，特别感谢网上结识的 biubiubiu 老哥，勇愿提供珍贵且有价值的信息。
